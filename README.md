@@ -1,4 +1,4 @@
-![ Aspiring Data Science with a passion ](https://www.canva.com/design/DAGGbvoM4s8/AoMf_LsVBQazo0lmQDPufA/edit)
+![ Aspiring Data Science with a passion ]
 
 <h1 align="center">Hi 👋, I'm Subham Maity</h1>
 <h3 align="center">Aspiring Data Science with a strong passion.</h3>
@@ -18,9 +18,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=graphical-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="graphical-analysis" /> </p>
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **My Bechelors degree in B.Tech CSE with specialization in Data Science**
 
-- 💬 Ask me about **Data Analysis, Business Decision, Data Visualizatio**
+- 💬 Ask me about **Data Analysis, Business Decision, Data Visualization**
 
 - 📫 How to reach me **work.subham2004@gmail.com**
 
