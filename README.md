@@ -1,4 +1,4 @@
-![ Aspiring Data Science with a passion ]
+
 
 <h1 align="center">Hi 👋, I'm Subham Maity</h1>
 <h3 align="center">Aspiring Data Science with a strong passion.</h3>
